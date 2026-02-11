@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋 I'm Vivek—a passionate coder and die-hard Linux enthusiast!</h1>
+<h1 align="center"> Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Viv — Cloud & Infra Management Engineer @ LTM, lowkey grinding my way into Data Engineering</h1>
 
 ###
 
