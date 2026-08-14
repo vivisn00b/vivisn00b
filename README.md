@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/dey-vivek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="29" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/vivek.dey1515" target="_blank">
+  <a href="https://www.facebook.com/vivek.d3y" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="29" alt="facebook logo"  />
   </a>
 </div>
